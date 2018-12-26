@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ae29b26293beb432ee10918f329c98de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dec59be136f072162f8a5a2db0a7d870\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2a24f8e6238f61a614311698eaa2a910\AndroidManifest.xml:2:1-11:12
+MERGED from [me.zhouzhuo.zzhorizontalprogressbar:zz-horizontal-progressbar:1.0.3] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\zz-horizontal-progressbar-1.0.3.aar\caa1429e414f69498ac8026dcae3777a\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9c868730e4120a89b1fb4ab9db5bbd48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\62d5ea152b3436e3f65624334b7dde0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\917db366bc7f43cb46a06f8727bd163b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2c51a2021274710c85e733dac3f157d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\23ec125975e298b69154cce84e34a642\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e0ce496b98738ff487e6e25541861e77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0cc2bdcd11a33464e280551d0c9f374e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\45c5b4d55094e7bfc84954b0cc844c20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3c09e39d6be13718d4b063a6a454d951\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\644f7be61699833c5c03b5a36df245d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ea2ef248906086dbc1d04c3e0c17d113\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5e05498ded9cf590966d0f9f137de3e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7d319a8425c365f56ca0cc08a8cfbf6d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\728811cc68f2d937bbd2ff84829551f4\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.usb.host
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:5:5-62
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:5:19-59
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:11:5-48:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2a24f8e6238f61a614311698eaa2a910\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2a24f8e6238f61a614311698eaa2a910\AndroidManifest.xml:9:5-20
+MERGED from [me.zhouzhuo.zzhorizontalprogressbar:zz-horizontal-progressbar:1.0.3] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\zz-horizontal-progressbar-1.0.3.aar\caa1429e414f69498ac8026dcae3777a\AndroidManifest.xml:11:5-15:19
+MERGED from [me.zhouzhuo.zzhorizontalprogressbar:zz-horizontal-progressbar:1.0.3] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\zz-horizontal-progressbar-1.0.3.aar\caa1429e414f69498ac8026dcae3777a\AndroidManifest.xml:11:5-15:19
+	android:supportsRtl
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.peric.gas_monitoring_tablet.panels.Gas_Panel_Activity
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:18:9-39:20
+	android:label
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:20:13-35
+	android:launchMode
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:19:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:25:27-74
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:27:13-29:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:28:17-90
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:28:25-87
+intent-filter#android.intent.category.DEFAULT+android.media.action.IMAGE_CAPTURE
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:31:25-74
+category#android.intent.category.DEFAULT
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:33:27-73
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:36:13-38:57
+	android:resource
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:38:17-54
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:37:17-79
+activity#com.peric.gas_monitoring_tablet.panels.WarnLogActivity
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:40:9-69
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:40:19-57
+receiver#com.peric.gas_monitoring_tablet.utils.AutoStartBroadcastReceiver
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:42:9-47:20
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:42:19-67
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:43:13-46:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:44:17-79
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:44:25-76
+category#android.intent.category.HOME
+ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:45:17-72
+	android:name
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml:45:27-70
+uses-sdk
+INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ae29b26293beb432ee10918f329c98de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ae29b26293beb432ee10918f329c98de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dec59be136f072162f8a5a2db0a7d870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dec59be136f072162f8a5a2db0a7d870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2a24f8e6238f61a614311698eaa2a910\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2a24f8e6238f61a614311698eaa2a910\AndroidManifest.xml:5:5-7:41
+MERGED from [me.zhouzhuo.zzhorizontalprogressbar:zz-horizontal-progressbar:1.0.3] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\zz-horizontal-progressbar-1.0.3.aar\caa1429e414f69498ac8026dcae3777a\AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhouzhuo.zzhorizontalprogressbar:zz-horizontal-progressbar:1.0.3] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\zz-horizontal-progressbar-1.0.3.aar\caa1429e414f69498ac8026dcae3777a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9c868730e4120a89b1fb4ab9db5bbd48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9c868730e4120a89b1fb4ab9db5bbd48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\62d5ea152b3436e3f65624334b7dde0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\62d5ea152b3436e3f65624334b7dde0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\917db366bc7f43cb46a06f8727bd163b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\917db366bc7f43cb46a06f8727bd163b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2c51a2021274710c85e733dac3f157d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2c51a2021274710c85e733dac3f157d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\23ec125975e298b69154cce84e34a642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\23ec125975e298b69154cce84e34a642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e0ce496b98738ff487e6e25541861e77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e0ce496b98738ff487e6e25541861e77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0cc2bdcd11a33464e280551d0c9f374e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0cc2bdcd11a33464e280551d0c9f374e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\45c5b4d55094e7bfc84954b0cc844c20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\45c5b4d55094e7bfc84954b0cc844c20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3c09e39d6be13718d4b063a6a454d951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3c09e39d6be13718d4b063a6a454d951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\644f7be61699833c5c03b5a36df245d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\644f7be61699833c5c03b5a36df245d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ea2ef248906086dbc1d04c3e0c17d113\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ea2ef248906086dbc1d04c3e0c17d113\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5e05498ded9cf590966d0f9f137de3e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5e05498ded9cf590966d0f9f137de3e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7d319a8425c365f56ca0cc08a8cfbf6d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7d319a8425c365f56ca0cc08a8cfbf6d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\728811cc68f2d937bbd2ff84829551f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\cd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\728811cc68f2d937bbd2ff84829551f4\AndroidManifest.xml:20:5-44
+INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStutio-Workspace\Gas_Monitoring_Tablet\app\src\main\AndroidManifest.xml

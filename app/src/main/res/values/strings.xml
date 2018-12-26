@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gas_Monitoring_Tablet</string>
+
+    <string name="icon_comm">&#xe6b5;</string>
+    <string name="icon_person_num">&#xe647;</string>
+    <string name="icon_device">&#xe523;</string>
+    <string name="icon_device_group">&#xe9cc;</string>
+    <string name="icon_history">&#xe62c;</string>
+    <string name="title_activity_warn_log">WarnLogActivity</string>
+</resources>

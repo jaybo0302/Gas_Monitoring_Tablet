@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".panels.Gas_Panel_Activity"
+    android:background="@color/background_black"
+    android:orientation="vertical">
+    
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_panel"
+        android:layout_width="match_parent"
+        android:background="@color/theme_black"
+        android:layout_height="?attr/actionBarSize"
+        android:theme="?android:attr/actionBarTheme"
+        app:popupTheme="@style/ToolbarPopupTheme"
+        android:elevation="5dp">
+
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical">
+
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>

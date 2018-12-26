@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/receive"
+        app:showAsAction="never"
+        android:title="直连" />
+    <item
+        android:id="@+id/net"
+        app:showAsAction="never"
+        android:title="网络" />
+
+    <item
+        android:id="@+id/warn_log"
+        app:showAsAction="never"
+        android:title="报警日志" />
+</menu>

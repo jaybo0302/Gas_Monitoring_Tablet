@@ -1,0 +1,4 @@
+#Thu Dec 13 13:50:54 CST 2018
+base.0=E\:\\AndroidStutio-Workspace\\Gas_Monitoring_Tablet\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\132
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Fri Nov 09 10:23:26 CST 2018
+base.0=E\:\\AndroidStutio-Workspace\\Gas_Monitoring_Tablet\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ElectricityView">
+        <attr name="electric_radius" format="dimension" />
+        <attr name="electric_border_width" format="dimension" />
+        <attr name="electric_main_color" format="color" />
+        <attr name="electric_power" format="float" />
+    </declare-styleable>
+
+</resources>
